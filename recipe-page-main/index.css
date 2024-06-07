@@ -1,0 +1,14 @@
+@font-face{
+    font-family: outfit;
+    src:url(/assets/fonts/outfit/static/Outfit-Regular.ttf) format("ttf");
+}
+@font-face{
+    font-family: young-serif;
+    src:url(/assets/fonts/young-serif/static/Youngserif-Regular.ttf) format("ttf");
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
