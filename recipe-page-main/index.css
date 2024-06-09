@@ -22,8 +22,9 @@ h1,h2{
     font-family: young-serif;
     color: hsl(14, 45%, 36%);
 }
-p{
+p,li{
     line-height: 1.6;
+    color: hsl(25, 5%, 18%);
 
 }
 .container div:not(first-child){
