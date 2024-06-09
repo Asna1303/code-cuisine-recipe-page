@@ -17,7 +17,9 @@ img{
 
 
 }
-
+ul,ol{
+padding-left: 30px;
+}
 h1,h2{
     font-family: young-serif;
     color: hsl(14, 45%, 36%);
